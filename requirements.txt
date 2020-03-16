@@ -1,0 +1,4 @@
+jupyter>=1.0
+boto3>=1.12
+docker>=4.2
+pipreqs>=0.4
